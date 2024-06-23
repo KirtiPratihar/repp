@@ -1,1 +1,2 @@
-# This repository consist of pyhon programs
+# This repository consist of python programs.
+for i 
